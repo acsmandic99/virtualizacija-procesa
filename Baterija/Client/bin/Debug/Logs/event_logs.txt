@@ -1,0 +1,1050 @@
+Sample recived  Sample primljen  2025-09-29 15-58-11
+[IMPEDANCE JUMP]  [IMPEDANCE JUMP] Impedansa je skocila sa: 0.387946656688777 na 1.6830376361487 sto je IZNAD OCEKIVANE VREDNOSTI  2025-09-29 15-58-11
+[WARNING]: Z_Threshold]  Impedansa probila prag 1.6830376361487  2025-09-29 15-58-11
+[WARNING]: V_Threshold]  Napon je probio prag 3.44568  2025-09-29 15-58-11
+Sample recived  Sample primljen  2025-09-29 15-58-11
+[IMPEDANCE JUMP]  [IMPEDANCE JUMP] Impedansa je skocila sa: 1.6830376361487 na 0.228645703051686 sto je ISPOD OCEKIVANE VREDNOSTI  2025-09-29 15-58-11
+[WARNING]: V_Threshold]  Napon je probio prag 3.44453  2025-09-29 15-58-11
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:76.07912%  2025-09-29 15-58-11
+Sample recived  Sample primljen  2025-09-29 15-58-11
+[WARNING]: V_Threshold]  Napon je probio prag 3.44675  2025-09-29 15-58-11
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:74.31310%  2025-09-29 15-58-11
+Sample recived  Sample primljen  2025-09-29 15-58-11
+[SPIKE VOLTAGE  [SPIKE VOLTAGE] [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 15-58-11
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:73.69936%  2025-09-29 15-58-11
+[Out Of Band Warning]: DEVIJACIJA]  Napon odstupio od proseka: 50.88149%  2025-09-29 15-58-11
+Sample recived  Sample primljen  2025-09-29 15-58-11
+[SPIKE VOLTAGE  [SPIKE VOLTAGE] [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 15-58-11
+[WARNING]: V_Threshold]  Napon je probio prag 3.44733  2025-09-29 15-58-11
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:71.43026%  2025-09-29 15-58-11
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44777  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:73.52039%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44794  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:72.90225%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44817  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:72.54821%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44836  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:71.70644%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44853  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:70.13002%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44863  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:69.60796%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44875  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:68.43235%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44881  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:67.48205%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-12
+[WARNING]: V_Threshold]  Napon je probio prag 3.44887  2025-09-29 15-58-12
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:66.51516%  2025-09-29 15-58-12
+Sample recived  Sample primljen  2025-09-29 15-58-13
+[WARNING]: V_Threshold]  Napon je probio prag 3.44891  2025-09-29 15-58-13
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:65.27757%  2025-09-29 15-58-13
+Sample recived  Sample primljen  2025-09-29 15-58-13
+[WARNING]: V_Threshold]  Napon je probio prag 3.44893  2025-09-29 15-58-13
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:63.93372%  2025-09-29 15-58-13
+Sample recived  Sample primljen  2025-09-29 15-58-13
+[WARNING]: V_Threshold]  Napon je probio prag 3.44894  2025-09-29 15-58-13
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:63.50561%  2025-09-29 15-58-13
+Sample recived  Sample primljen  2025-09-29 15-58-13
+[WARNING]: V_Threshold]  Napon je probio prag 3.44897  2025-09-29 15-58-13
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:62.84163%  2025-09-29 15-58-13
+Sample recived  Sample primljen  2025-09-29 15-58-13
+[WARNING]: V_Threshold]  Napon je probio prag 3.44898  2025-09-29 15-58-13
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:62.94014%  2025-09-29 15-58-13
+Sample recived  Sample primljen  2025-09-29 15-58-13
+[WARNING]: V_Threshold]  Napon je probio prag 3.44897  2025-09-29 15-58-13
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:62.38963%  2025-09-29 15-58-13
+Sample recived  Sample primljen  2025-09-29 15-58-13
+[WARNING]: V_Threshold]  Napon je probio prag 3.44897  2025-09-29 15-58-13
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:61.75299%  2025-09-29 15-58-13
+Sample recived  Sample primljen  2025-09-29 15-58-13
+[WARNING]: V_Threshold]  Napon je probio prag 3.44895  2025-09-29 15-58-13
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:60.89587%  2025-09-29 15-58-13
+Sample recived  Sample primljen  2025-09-29 15-58-14
+[WARNING]: V_Threshold]  Napon je probio prag 3.44895  2025-09-29 15-58-14
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:62.68824%  2025-09-29 15-58-14
+Sample recived  Sample primljen  2025-09-29 15-58-14
+[WARNING]: V_Threshold]  Napon je probio prag 3.44894  2025-09-29 15-58-14
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:63.15851%  2025-09-29 15-58-14
+Sample recived  Sample primljen  2025-09-29 15-58-14
+[WARNING]: V_Threshold]  Napon je probio prag 3.44894  2025-09-29 15-58-14
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:62.20364%  2025-09-29 15-58-14
+Sample recived  Sample primljen  2025-09-29 15-58-14
+[WARNING]: V_Threshold]  Napon je probio prag 3.44894  2025-09-29 15-58-14
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:62.72738%  2025-09-29 15-58-14
+Sample recived  Sample primljen  2025-09-29 15-58-15
+Sample recived  Sample primljen  2025-09-29 15-58-15
+Sample recived  Sample primljen  2025-09-29 15-58-15
+Sample recived  Sample primljen  2025-09-29 15-58-15
+Sample recived  Sample primljen  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.23161%  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.43063%  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-16
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.06368%  2025-09-29 15-58-16
+Sample recived  Sample primljen  2025-09-29 15-58-17
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.47241%  2025-09-29 15-58-17
+Sample recived  Sample primljen  2025-09-29 15-58-17
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.99329%  2025-09-29 15-58-17
+Sample recived  Sample primljen  2025-09-29 15-58-17
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.14872%  2025-09-29 15-58-17
+Sample recived  Sample primljen  2025-09-29 15-58-17
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.29343%  2025-09-29 15-58-17
+Sample recived  Sample primljen  2025-09-29 15-58-17
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.67098%  2025-09-29 15-58-17
+Sample recived  Sample primljen  2025-09-29 15-58-17
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:28.44494%  2025-09-29 15-58-17
+Sample recived  Sample primljen  2025-09-29 15-58-17
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:28.73135%  2025-09-29 15-58-17
+Sample recived  Sample primljen  2025-09-29 15-58-17
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:28.77282%  2025-09-29 15-58-17
+Sample recived  Sample primljen  2025-09-29 15-58-18
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:28.32116%  2025-09-29 15-58-18
+Sample recived  Sample primljen  2025-09-29 15-58-18
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:30.52749%  2025-09-29 15-58-18
+Sample recived  Sample primljen  2025-09-29 15-58-18
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:31.56862%  2025-09-29 15-58-18
+Sample recived  Sample primljen  2025-09-29 15-58-18
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:33.12450%  2025-09-29 15-58-18
+Sample recived  Sample primljen  2025-09-29 15-58-18
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:34.52576%  2025-09-29 15-58-18
+Sample recived  Sample primljen  2025-09-29 15-58-18
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:34.76502%  2025-09-29 15-58-18
+Sample recived  Sample primljen  2025-09-29 15-58-19
+Sample recived  Sample primljen  2025-09-29 15-58-19
+Sample recived  Sample primljen  2025-09-29 15-58-19
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-20
+Sample recived  Sample primljen  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-21
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.22469%  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-21
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.20550%  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-21
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.60534%  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-21
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:27.46395%  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-21
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:27.77389%  2025-09-29 15-58-21
+Sample recived  Sample primljen  2025-09-29 15-58-22
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:27.83051%  2025-09-29 15-58-22
+Sample recived  Sample primljen  2025-09-29 15-58-22
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:27.43908%  2025-09-29 15-58-22
+Sample recived  Sample primljen  2025-09-29 15-58-22
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:29.76633%  2025-09-29 15-58-22
+Sample recived  Sample primljen  2025-09-29 15-58-22
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:30.83725%  2025-09-29 15-58-22
+Sample recived  Sample primljen  2025-09-29 15-58-22
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:32.45504%  2025-09-29 15-58-22
+Sample recived  Sample primljen  2025-09-29 15-58-22
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:33.92166%  2025-09-29 15-58-22
+Sample recived  Sample primljen  2025-09-29 15-58-22
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:34.17874%  2025-09-29 15-58-22
+Sample recived  Sample primljen  2025-09-29 15-58-23
+Sample recived  Sample primljen  2025-09-29 15-58-23
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-24
+Sample recived  Sample primljen  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-25
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.74560%  2025-09-29 15-58-25
+Sample recived  Sample primljen  2025-09-29 15-58-26
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:27.08413%  2025-09-29 15-58-26
+Sample recived  Sample primljen  2025-09-29 15-58-26
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:27.16097%  2025-09-29 15-58-26
+Sample recived  Sample primljen  2025-09-29 15-58-26
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.76203%  2025-09-29 15-58-26
+Sample recived  Sample primljen  2025-09-29 15-58-26
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:29.15973%  2025-09-29 15-58-26
+Sample recived  Sample primljen  2025-09-29 15-58-26
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:30.25108%  2025-09-29 15-58-26
+Sample recived  Sample primljen  2025-09-29 15-58-26
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:31.92049%  2025-09-29 15-58-26
+Sample recived  Sample primljen  2025-09-29 15-58-26
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:33.46007%  2025-09-29 15-58-26
+Sample recived  Sample primljen  2025-09-29 15-58-26
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:33.74194%  2025-09-29 15-58-26
+Sample recived  Sample primljen  2025-09-29 15-58-27
+Sample recived  Sample primljen  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-28
+[SPIKE VOLTAGE  [SPIKE VOLTAGE] [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 15-58-28
+[Out Of Band Warning]: DEVIJACIJA]  Napon odstupio od proseka: 57.81857%  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-28
+[SPIKE VOLTAGE  [SPIKE VOLTAGE] [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-28
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-29
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.11656%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.49066%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.58063%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.19234%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:28.60833%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:29.76709%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:31.48353%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:33.06352%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-30
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:33.35368%  2025-09-29 15-58-30
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-32
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-33
+Sample recived  Sample primljen  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-34
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.50335%  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-34
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.86117%  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-34
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:26.00470%  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-34
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.64614%  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-34
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:28.13846%  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-34
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:29.30771%  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-34
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:31.09291%  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-34
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:32.69962%  2025-09-29 15-58-34
+Sample recived  Sample primljen  2025-09-29 15-58-35
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:33.04134%  2025-09-29 15-58-35
+Sample recived  Sample primljen  2025-09-29 15-58-36
+Sample recived  Sample primljen  2025-09-29 15-58-36
+Sample recived  Sample primljen  2025-09-29 15-58-36
+Sample recived  Sample primljen  2025-09-29 15-58-36
+Sample recived  Sample primljen  2025-09-29 15-58-36
+Sample recived  Sample primljen  2025-09-29 15-58-36
+Sample recived  Sample primljen  2025-09-29 15-58-36
+Sample recived  Sample primljen  2025-09-29 15-58-36
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-37
+Sample recived  Sample primljen  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-38
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.30383%  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-38
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.46464%  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-38
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:25.09867%  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-38
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:27.58165%  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-38
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:28.79308%  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-38
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:30.63256%  2025-09-29 15-58-38
+Sample recived  Sample primljen  2025-09-29 15-58-39
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:32.29265%  2025-09-29 15-58-39
+Sample recived  Sample primljen  2025-09-29 15-58-39
+[Out Of Band Warning]: DEVIJACIJA]  Impedansa odstupila od proseka:32.64723%  2025-09-29 15-58-39
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[IMPEDANCE JUMP]  Impedansa je skocila sa: 0.387946656688777 na 1.6830376361487 sto je IZNAD OCEKIVANE VREDNOSTI  2025-09-29 16-00-29
+[WARNING]: [Z_Threshold]  Impedansa probila prag 1.6830376361487  2025-09-29 16-00-29
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44568  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[IMPEDANCE JUMP]  Impedansa je skocila sa: 1.6830376361487 na 0.228645703051686 sto je ISPOD OCEKIVANE VREDNOSTI  2025-09-29 16-00-29
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44453  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:76.07912%  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44675  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:74.31310%  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[SPIKE VOLTAGE]  [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:73.69936%  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Napon odstupio od proseka: 50.88149%  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[SPIKE VOLTAGE]  [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 16-00-29
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44733  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:71.43026%  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44777  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:73.52039%  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44794  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:72.90225%  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44817  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:72.54821%  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-29
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44836  2025-09-29 16-00-29
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:71.70644%  2025-09-29 16-00-29
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44853  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:70.13002%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44863  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:69.60796%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44875  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:68.43235%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44881  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:67.48205%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44887  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:66.51516%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44891  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:65.27757%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44893  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:63.93372%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44894  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:63.50561%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-30
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44897  2025-09-29 16-00-30
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.84163%  2025-09-29 16-00-30
+Sample recived  Sample primljen  2025-09-29 16-00-31
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44898  2025-09-29 16-00-31
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.94014%  2025-09-29 16-00-31
+Sample recived  Sample primljen  2025-09-29 16-00-31
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44897  2025-09-29 16-00-31
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.38963%  2025-09-29 16-00-31
+Sample recived  Sample primljen  2025-09-29 16-00-31
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44897  2025-09-29 16-00-31
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:61.75299%  2025-09-29 16-00-31
+Sample recived  Sample primljen  2025-09-29 16-00-31
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44895  2025-09-29 16-00-31
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:60.89587%  2025-09-29 16-00-31
+Sample recived  Sample primljen  2025-09-29 16-00-31
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44895  2025-09-29 16-00-31
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.68824%  2025-09-29 16-00-31
+Sample recived  Sample primljen  2025-09-29 16-00-31
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44894  2025-09-29 16-00-31
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:63.15851%  2025-09-29 16-00-31
+Sample recived  Sample primljen  2025-09-29 16-00-31
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44894  2025-09-29 16-00-31
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.20364%  2025-09-29 16-00-31
+Sample recived  Sample primljen  2025-09-29 16-00-31
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44894  2025-09-29 16-00-31
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.72738%  2025-09-29 16-00-31
+Sample recived  Sample primljen  2025-09-29 16-00-33
+Sample recived  Sample primljen  2025-09-29 16-00-33
+Sample recived  Sample primljen  2025-09-29 16-00-33
+Sample recived  Sample primljen  2025-09-29 16-00-33
+Sample recived  Sample primljen  2025-09-29 16-00-33
+Sample recived  Sample primljen  2025-09-29 16-00-33
+Sample recived  Sample primljen  2025-09-29 16-00-33
+Sample recived  Sample primljen  2025-09-29 16-00-33
+Sample recived  Sample primljen  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-34
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.23161%  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-34
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.43063%  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-34
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.06368%  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-34
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.47241%  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-34
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.99329%  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-34
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.14872%  2025-09-29 16-00-34
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.29343%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.67098%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.44494%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.73135%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.77282%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.32116%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.52749%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.56862%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-35
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.12450%  2025-09-29 16-00-35
+Sample recived  Sample primljen  2025-09-29 16-00-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:34.52576%  2025-09-29 16-00-36
+Sample recived  Sample primljen  2025-09-29 16-00-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:34.76502%  2025-09-29 16-00-36
+Sample recived  Sample primljen  2025-09-29 16-00-37
+Sample recived  Sample primljen  2025-09-29 16-00-37
+Sample recived  Sample primljen  2025-09-29 16-00-37
+Sample recived  Sample primljen  2025-09-29 16-00-37
+Sample recived  Sample primljen  2025-09-29 16-00-37
+Sample recived  Sample primljen  2025-09-29 16-00-37
+Sample recived  Sample primljen  2025-09-29 16-00-37
+Sample recived  Sample primljen  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.22469%  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-38
+Sample recived  Sample primljen  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.20550%  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.60534%  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.46395%  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.77389%  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.83051%  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.43908%  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.76633%  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.83725%  2025-09-29 16-00-39
+Sample recived  Sample primljen  2025-09-29 16-00-40
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.45504%  2025-09-29 16-00-40
+Sample recived  Sample primljen  2025-09-29 16-00-40
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.92166%  2025-09-29 16-00-40
+Sample recived  Sample primljen  2025-09-29 16-00-40
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:34.17874%  2025-09-29 16-00-40
+Sample recived  Sample primljen  2025-09-29 16-00-41
+Sample recived  Sample primljen  2025-09-29 16-00-41
+Sample recived  Sample primljen  2025-09-29 16-00-41
+Sample recived  Sample primljen  2025-09-29 16-00-41
+Sample recived  Sample primljen  2025-09-29 16-00-41
+Sample recived  Sample primljen  2025-09-29 16-00-41
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-42
+Sample recived  Sample primljen  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-43
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.74560%  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-43
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.08413%  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-43
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.16097%  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-43
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.76203%  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-43
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.15973%  2025-09-29 16-00-43
+Sample recived  Sample primljen  2025-09-29 16-00-44
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.25108%  2025-09-29 16-00-44
+Sample recived  Sample primljen  2025-09-29 16-00-44
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.92049%  2025-09-29 16-00-44
+Sample recived  Sample primljen  2025-09-29 16-00-44
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.46007%  2025-09-29 16-00-44
+Sample recived  Sample primljen  2025-09-29 16-00-44
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.74194%  2025-09-29 16-00-44
+Sample recived  Sample primljen  2025-09-29 16-00-45
+Sample recived  Sample primljen  2025-09-29 16-00-45
+Sample recived  Sample primljen  2025-09-29 16-00-45
+Sample recived  Sample primljen  2025-09-29 16-00-45
+Sample recived  Sample primljen  2025-09-29 16-00-45
+Sample recived  Sample primljen  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-46
+[SPIKE VOLTAGE]  [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 16-00-46
+[Out Of Band Warning]: [DEVIJACIJA]  Napon odstupio od proseka: 57.81857%  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-46
+[SPIKE VOLTAGE]  [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-46
+Sample recived  Sample primljen  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-47
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.11656%  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-47
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.49066%  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-47
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.58063%  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-47
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.19234%  2025-09-29 16-00-47
+Sample recived  Sample primljen  2025-09-29 16-00-48
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.60833%  2025-09-29 16-00-48
+Sample recived  Sample primljen  2025-09-29 16-00-48
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.76709%  2025-09-29 16-00-48
+Sample recived  Sample primljen  2025-09-29 16-00-48
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.48353%  2025-09-29 16-00-48
+Sample recived  Sample primljen  2025-09-29 16-00-48
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.06352%  2025-09-29 16-00-48
+Sample recived  Sample primljen  2025-09-29 16-00-48
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.35368%  2025-09-29 16-00-48
+Sample recived  Sample primljen  2025-09-29 16-00-49
+Sample recived  Sample primljen  2025-09-29 16-00-49
+Sample recived  Sample primljen  2025-09-29 16-00-49
+Sample recived  Sample primljen  2025-09-29 16-00-49
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-50
+Sample recived  Sample primljen  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-51
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.50335%  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-51
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.86117%  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-51
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.00470%  2025-09-29 16-00-51
+Sample recived  Sample primljen  2025-09-29 16-00-52
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.64614%  2025-09-29 16-00-52
+Sample recived  Sample primljen  2025-09-29 16-00-52
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.13846%  2025-09-29 16-00-52
+Sample recived  Sample primljen  2025-09-29 16-00-52
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.30771%  2025-09-29 16-00-52
+Sample recived  Sample primljen  2025-09-29 16-00-52
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.09291%  2025-09-29 16-00-52
+Sample recived  Sample primljen  2025-09-29 16-00-52
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.69962%  2025-09-29 16-00-52
+Sample recived  Sample primljen  2025-09-29 16-00-52
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.04134%  2025-09-29 16-00-52
+Sample recived  Sample primljen  2025-09-29 16-00-53
+Sample recived  Sample primljen  2025-09-29 16-00-53
+Sample recived  Sample primljen  2025-09-29 16-00-53
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-54
+Sample recived  Sample primljen  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.30383%  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-55
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.46464%  2025-09-29 16-00-55
+Sample recived  Sample primljen  2025-09-29 16-00-56
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.09867%  2025-09-29 16-00-56
+Sample recived  Sample primljen  2025-09-29 16-00-56
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.58165%  2025-09-29 16-00-56
+Sample recived  Sample primljen  2025-09-29 16-00-56
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.79308%  2025-09-29 16-00-56
+Sample recived  Sample primljen  2025-09-29 16-00-56
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.63256%  2025-09-29 16-00-56
+Sample recived  Sample primljen  2025-09-29 16-00-56
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.29265%  2025-09-29 16-00-56
+Sample recived  Sample primljen  2025-09-29 16-00-56
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.64723%  2025-09-29 16-00-56
+Sample recived  Sample primljen  2025-09-29 16-00-57
+Sample recived  Sample primljen  2025-09-29 16-00-57
+Sample recived  Sample primljen  2025-09-29 16-00-57
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-58
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-00-59
+Sample recived  Sample primljen  2025-09-29 16-01-00
+Sample recived  Sample primljen  2025-09-29 16-01-00
+Sample recived  Sample primljen  2025-09-29 16-01-00
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.01894%  2025-09-29 16-01-00
+Sample recived  Sample primljen  2025-09-29 16-01-00
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.25470%  2025-09-29 16-01-00
+Sample recived  Sample primljen  2025-09-29 16-01-00
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.09523%  2025-09-29 16-01-00
+Sample recived  Sample primljen  2025-09-29 16-01-00
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.80676%  2025-09-29 16-01-00
+Sample recived  Sample primljen  2025-09-29 16-01-00
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.18873%  2025-09-29 16-01-00
+Sample recived  Sample primljen  2025-09-29 16-01-01
+Sample recived  Sample primljen  2025-09-29 16-01-01
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-02
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-03
+Sample recived  Sample primljen  2025-09-29 16-01-04
+Sample recived  Sample primljen  2025-09-29 16-01-04
+Sample recived  Sample primljen  2025-09-29 16-01-04
+Sample recived  Sample primljen  2025-09-29 16-01-04
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.52045%  2025-09-29 16-01-04
+Sample recived  Sample primljen  2025-09-29 16-01-04
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.78572%  2025-09-29 16-01-04
+Sample recived  Sample primljen  2025-09-29 16-01-04
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.63829%  2025-09-29 16-01-04
+Sample recived  Sample primljen  2025-09-29 16-01-04
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.37845%  2025-09-29 16-01-04
+Sample recived  Sample primljen  2025-09-29 16-01-04
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.76323%  2025-09-29 16-01-04
+Sample recived  Sample primljen 2  2025-09-29 16-01-36
+[IMPEDANCE JUMP]  Impedansa je skocila sa: 0.387946656688777 na 1.6830376361487 sto je IZNAD OCEKIVANE VREDNOSTI  2025-09-29 16-01-36
+[WARNING]: [Z_Threshold]  Impedansa probila prag 1.6830376361487  2025-09-29 16-01-36
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44568  2025-09-29 16-01-36
+Sample recived  Sample primljen 3  2025-09-29 16-01-36
+[IMPEDANCE JUMP]  Impedansa je skocila sa: 1.6830376361487 na 0.228645703051686 sto je ISPOD OCEKIVANE VREDNOSTI  2025-09-29 16-01-36
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44453  2025-09-29 16-01-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:76.07912%  2025-09-29 16-01-36
+Sample recived  Sample primljen 4  2025-09-29 16-01-36
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44675  2025-09-29 16-01-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:74.31310%  2025-09-29 16-01-36
+Sample recived  Sample primljen 5  2025-09-29 16-01-36
+[SPIKE VOLTAGE]  [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 16-01-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:73.69936%  2025-09-29 16-01-36
+[Out Of Band Warning]: [DEVIJACIJA]  Napon odstupio od proseka: 50.88149%  2025-09-29 16-01-36
+Sample recived  Sample primljen 6  2025-09-29 16-01-36
+[SPIKE VOLTAGE]  [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 16-01-36
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44733  2025-09-29 16-01-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:71.43026%  2025-09-29 16-01-36
+Sample recived  Sample primljen 7  2025-09-29 16-01-36
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44777  2025-09-29 16-01-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:73.52039%  2025-09-29 16-01-36
+Sample recived  Sample primljen 8  2025-09-29 16-01-36
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44794  2025-09-29 16-01-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:72.90225%  2025-09-29 16-01-36
+Sample recived  Sample primljen 9  2025-09-29 16-01-36
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44817  2025-09-29 16-01-36
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:72.54821%  2025-09-29 16-01-36
+Sample recived  Sample primljen 10  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44836  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:71.70644%  2025-09-29 16-01-37
+Sample recived  Sample primljen 11  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44853  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:70.13002%  2025-09-29 16-01-37
+Sample recived  Sample primljen 12  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44863  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:69.60796%  2025-09-29 16-01-37
+Sample recived  Sample primljen 13  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44875  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:68.43235%  2025-09-29 16-01-37
+Sample recived  Sample primljen 14  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44881  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:67.48205%  2025-09-29 16-01-37
+Sample recived  Sample primljen 15  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44887  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:66.51516%  2025-09-29 16-01-37
+Sample recived  Sample primljen 16  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44891  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:65.27757%  2025-09-29 16-01-37
+Sample recived  Sample primljen 17  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44893  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:63.93372%  2025-09-29 16-01-37
+Sample recived  Sample primljen 18  2025-09-29 16-01-37
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44894  2025-09-29 16-01-37
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:63.50561%  2025-09-29 16-01-37
+Sample recived  Sample primljen 19  2025-09-29 16-01-38
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44897  2025-09-29 16-01-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.84163%  2025-09-29 16-01-38
+Sample recived  Sample primljen 20  2025-09-29 16-01-38
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44898  2025-09-29 16-01-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.94014%  2025-09-29 16-01-38
+Sample recived  Sample primljen 21  2025-09-29 16-01-38
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44897  2025-09-29 16-01-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.38963%  2025-09-29 16-01-38
+Sample recived  Sample primljen 22  2025-09-29 16-01-38
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44897  2025-09-29 16-01-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:61.75299%  2025-09-29 16-01-38
+Sample recived  Sample primljen 23  2025-09-29 16-01-38
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44895  2025-09-29 16-01-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:60.89587%  2025-09-29 16-01-38
+Sample recived  Sample primljen 25  2025-09-29 16-01-38
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44895  2025-09-29 16-01-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.68824%  2025-09-29 16-01-38
+Sample recived  Sample primljen 26  2025-09-29 16-01-38
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44894  2025-09-29 16-01-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:63.15851%  2025-09-29 16-01-38
+Sample recived  Sample primljen 27  2025-09-29 16-01-38
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44894  2025-09-29 16-01-38
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.20364%  2025-09-29 16-01-38
+Sample recived  Sample primljen 28  2025-09-29 16-01-39
+[WARNING]: [V_Threshold]  Napon je probio prag 3.44894  2025-09-29 16-01-39
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:62.72738%  2025-09-29 16-01-39
+Sample recived  Sample primljen 1  2025-09-29 16-01-40
+Sample recived  Sample primljen 2  2025-09-29 16-01-40
+Sample recived  Sample primljen 3  2025-09-29 16-01-40
+Sample recived  Sample primljen 4  2025-09-29 16-01-40
+Sample recived  Sample primljen 5  2025-09-29 16-01-40
+Sample recived  Sample primljen 6  2025-09-29 16-01-40
+Sample recived  Sample primljen 7  2025-09-29 16-01-40
+Sample recived  Sample primljen 8  2025-09-29 16-01-40
+Sample recived  Sample primljen 9  2025-09-29 16-01-41
+Sample recived  Sample primljen 10  2025-09-29 16-01-41
+Sample recived  Sample primljen 11  2025-09-29 16-01-41
+Sample recived  Sample primljen 12  2025-09-29 16-01-41
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.23161%  2025-09-29 16-01-41
+Sample recived  Sample primljen 13  2025-09-29 16-01-41
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.43063%  2025-09-29 16-01-41
+Sample recived  Sample primljen 14  2025-09-29 16-01-41
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.06368%  2025-09-29 16-01-41
+Sample recived  Sample primljen 15  2025-09-29 16-01-41
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.47241%  2025-09-29 16-01-41
+Sample recived  Sample primljen 16  2025-09-29 16-01-41
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.99329%  2025-09-29 16-01-41
+Sample recived  Sample primljen 17  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.14872%  2025-09-29 16-01-42
+Sample recived  Sample primljen 18  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.29343%  2025-09-29 16-01-42
+Sample recived  Sample primljen 19  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.67098%  2025-09-29 16-01-42
+Sample recived  Sample primljen 20  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.44494%  2025-09-29 16-01-42
+Sample recived  Sample primljen 21  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.73135%  2025-09-29 16-01-42
+Sample recived  Sample primljen 22  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.77282%  2025-09-29 16-01-42
+Sample recived  Sample primljen 23  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.32116%  2025-09-29 16-01-42
+Sample recived  Sample primljen 24  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.52749%  2025-09-29 16-01-42
+Sample recived  Sample primljen 25  2025-09-29 16-01-42
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.56862%  2025-09-29 16-01-42
+Sample recived  Sample primljen 26  2025-09-29 16-01-43
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.12450%  2025-09-29 16-01-43
+Sample recived  Sample primljen 27  2025-09-29 16-01-43
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:34.52576%  2025-09-29 16-01-43
+Sample recived  Sample primljen 28  2025-09-29 16-01-43
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:34.76502%  2025-09-29 16-01-43
+Sample recived  Sample primljen 1  2025-09-29 16-01-44
+Sample recived  Sample primljen 2  2025-09-29 16-01-44
+Sample recived  Sample primljen 3  2025-09-29 16-01-44
+Sample recived  Sample primljen 4  2025-09-29 16-01-44
+Sample recived  Sample primljen 5  2025-09-29 16-01-44
+Sample recived  Sample primljen 6  2025-09-29 16-01-44
+Sample recived  Sample primljen 7  2025-09-29 16-01-45
+Sample recived  Sample primljen 8  2025-09-29 16-01-45
+Sample recived  Sample primljen 9  2025-09-29 16-01-45
+Sample recived  Sample primljen 10  2025-09-29 16-01-45
+Sample recived  Sample primljen 11  2025-09-29 16-01-45
+Sample recived  Sample primljen 12  2025-09-29 16-01-45
+Sample recived  Sample primljen 13  2025-09-29 16-01-45
+Sample recived  Sample primljen 14  2025-09-29 16-01-45
+Sample recived  Sample primljen 15  2025-09-29 16-01-45
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.22469%  2025-09-29 16-01-45
+Sample recived  Sample primljen 16  2025-09-29 16-01-46
+Sample recived  Sample primljen 17  2025-09-29 16-01-46
+Sample recived  Sample primljen 18  2025-09-29 16-01-46
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.20550%  2025-09-29 16-01-46
+Sample recived  Sample primljen 19  2025-09-29 16-01-46
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.60534%  2025-09-29 16-01-46
+Sample recived  Sample primljen 20  2025-09-29 16-01-46
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.46395%  2025-09-29 16-01-46
+Sample recived  Sample primljen 21  2025-09-29 16-01-46
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.77389%  2025-09-29 16-01-46
+Sample recived  Sample primljen 22  2025-09-29 16-01-46
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.83051%  2025-09-29 16-01-46
+Sample recived  Sample primljen 23  2025-09-29 16-01-46
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.43908%  2025-09-29 16-01-46
+Sample recived  Sample primljen 24  2025-09-29 16-01-46
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.76633%  2025-09-29 16-01-46
+Sample recived  Sample primljen 25  2025-09-29 16-01-47
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.83725%  2025-09-29 16-01-47
+Sample recived  Sample primljen 26  2025-09-29 16-01-47
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.45504%  2025-09-29 16-01-47
+Sample recived  Sample primljen 27  2025-09-29 16-01-47
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.92166%  2025-09-29 16-01-47
+Sample recived  Sample primljen 28  2025-09-29 16-01-47
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:34.17874%  2025-09-29 16-01-47
+Sample recived  Sample primljen 1  2025-09-29 16-01-48
+Sample recived  Sample primljen 2  2025-09-29 16-01-48
+Sample recived  Sample primljen 3  2025-09-29 16-01-48
+Sample recived  Sample primljen 4  2025-09-29 16-01-48
+Sample recived  Sample primljen 5  2025-09-29 16-01-49
+Sample recived  Sample primljen 6  2025-09-29 16-01-49
+Sample recived  Sample primljen 7  2025-09-29 16-01-49
+Sample recived  Sample primljen 8  2025-09-29 16-01-49
+Sample recived  Sample primljen 9  2025-09-29 16-01-49
+Sample recived  Sample primljen 10  2025-09-29 16-01-49
+Sample recived  Sample primljen 11  2025-09-29 16-01-49
+Sample recived  Sample primljen 12  2025-09-29 16-01-49
+Sample recived  Sample primljen 13  2025-09-29 16-01-49
+Sample recived  Sample primljen 14  2025-09-29 16-01-49
+Sample recived  Sample primljen 15  2025-09-29 16-01-50
+Sample recived  Sample primljen 16  2025-09-29 16-01-50
+Sample recived  Sample primljen 17  2025-09-29 16-01-50
+Sample recived  Sample primljen 18  2025-09-29 16-01-50
+Sample recived  Sample primljen 19  2025-09-29 16-01-50
+Sample recived  Sample primljen 20  2025-09-29 16-01-50
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.74560%  2025-09-29 16-01-50
+Sample recived  Sample primljen 21  2025-09-29 16-01-50
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.08413%  2025-09-29 16-01-50
+Sample recived  Sample primljen 22  2025-09-29 16-01-50
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.16097%  2025-09-29 16-01-50
+Sample recived  Sample primljen 23  2025-09-29 16-01-50
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.76203%  2025-09-29 16-01-50
+Sample recived  Sample primljen 24  2025-09-29 16-01-51
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.15973%  2025-09-29 16-01-51
+Sample recived  Sample primljen 25  2025-09-29 16-01-51
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.25108%  2025-09-29 16-01-51
+Sample recived  Sample primljen 26  2025-09-29 16-01-51
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.92049%  2025-09-29 16-01-51
+Sample recived  Sample primljen 27  2025-09-29 16-01-51
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.46007%  2025-09-29 16-01-51
+Sample recived  Sample primljen 28  2025-09-29 16-01-51
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.74194%  2025-09-29 16-01-51
+Sample recived  Sample primljen 1  2025-09-29 16-01-52
+Sample recived  Sample primljen 2  2025-09-29 16-01-52
+Sample recived  Sample primljen 3  2025-09-29 16-01-52
+Sample recived  Sample primljen 4  2025-09-29 16-01-52
+Sample recived  Sample primljen 5  2025-09-29 16-01-53
+Sample recived  Sample primljen 6  2025-09-29 16-01-53
+Sample recived  Sample primljen 7  2025-09-29 16-01-53
+[SPIKE VOLTAGE]  [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 16-01-53
+[Out Of Band Warning]: [DEVIJACIJA]  Napon odstupio od proseka: 57.81857%  2025-09-29 16-01-53
+Sample recived  Sample primljen 8  2025-09-29 16-01-53
+[SPIKE VOLTAGE]  [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}  2025-09-29 16-01-53
+Sample recived  Sample primljen 9  2025-09-29 16-01-53
+Sample recived  Sample primljen 10  2025-09-29 16-01-53
+Sample recived  Sample primljen 11  2025-09-29 16-01-53
+Sample recived  Sample primljen 12  2025-09-29 16-01-53
+Sample recived  Sample primljen 13  2025-09-29 16-01-53
+Sample recived  Sample primljen 14  2025-09-29 16-01-54
+Sample recived  Sample primljen 15  2025-09-29 16-01-54
+Sample recived  Sample primljen 16  2025-09-29 16-01-54
+Sample recived  Sample primljen 17  2025-09-29 16-01-54
+Sample recived  Sample primljen 18  2025-09-29 16-01-54
+Sample recived  Sample primljen 19  2025-09-29 16-01-54
+Sample recived  Sample primljen 20  2025-09-29 16-01-54
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.11656%  2025-09-29 16-01-54
+Sample recived  Sample primljen 21  2025-09-29 16-01-54
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.49066%  2025-09-29 16-01-54
+Sample recived  Sample primljen 22  2025-09-29 16-01-54
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.58063%  2025-09-29 16-01-54
+Sample recived  Sample primljen 23  2025-09-29 16-01-55
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.19234%  2025-09-29 16-01-55
+Sample recived  Sample primljen 24  2025-09-29 16-01-55
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.60833%  2025-09-29 16-01-55
+Sample recived  Sample primljen 25  2025-09-29 16-01-55
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.76709%  2025-09-29 16-01-55
+Sample recived  Sample primljen 26  2025-09-29 16-01-55
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.48353%  2025-09-29 16-01-55
+Sample recived  Sample primljen 27  2025-09-29 16-01-55
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.06352%  2025-09-29 16-01-55
+Sample recived  Sample primljen 28  2025-09-29 16-01-55
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.35368%  2025-09-29 16-01-55
+Sample recived  Sample primljen 1  2025-09-29 16-01-56
+Sample recived  Sample primljen 2  2025-09-29 16-01-56
+Sample recived  Sample primljen 3  2025-09-29 16-01-56
+Sample recived  Sample primljen 4  2025-09-29 16-01-57
+Sample recived  Sample primljen 5  2025-09-29 16-01-57
+Sample recived  Sample primljen 6  2025-09-29 16-01-57
+Sample recived  Sample primljen 7  2025-09-29 16-01-57
+Sample recived  Sample primljen 8  2025-09-29 16-01-57
+Sample recived  Sample primljen 9  2025-09-29 16-01-57
+Sample recived  Sample primljen 10  2025-09-29 16-01-57
+Sample recived  Sample primljen 11  2025-09-29 16-01-57
+Sample recived  Sample primljen 12  2025-09-29 16-01-57
+Sample recived  Sample primljen 13  2025-09-29 16-01-58
+Sample recived  Sample primljen 14  2025-09-29 16-01-58
+Sample recived  Sample primljen 15  2025-09-29 16-01-58
+Sample recived  Sample primljen 16  2025-09-29 16-01-58
+Sample recived  Sample primljen 17  2025-09-29 16-01-58
+Sample recived  Sample primljen 18  2025-09-29 16-01-58
+Sample recived  Sample primljen 19  2025-09-29 16-01-58
+Sample recived  Sample primljen 20  2025-09-29 16-01-58
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.50335%  2025-09-29 16-01-58
+Sample recived  Sample primljen 21  2025-09-29 16-01-59
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.86117%  2025-09-29 16-01-59
+Sample recived  Sample primljen 22  2025-09-29 16-01-59
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:26.00470%  2025-09-29 16-01-59
+Sample recived  Sample primljen 23  2025-09-29 16-01-59
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.64614%  2025-09-29 16-01-59
+Sample recived  Sample primljen 24  2025-09-29 16-01-59
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.13846%  2025-09-29 16-01-59
+Sample recived  Sample primljen 25  2025-09-29 16-01-59
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:29.30771%  2025-09-29 16-01-59
+Sample recived  Sample primljen 26  2025-09-29 16-01-59
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.09291%  2025-09-29 16-01-59
+Sample recived  Sample primljen 27  2025-09-29 16-01-59
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.69962%  2025-09-29 16-01-59
+Sample recived  Sample primljen 28  2025-09-29 16-01-59
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:33.04134%  2025-09-29 16-01-59
+Sample recived  Sample primljen 1  2025-09-29 16-02-00
+Sample recived  Sample primljen 2  2025-09-29 16-02-01
+Sample recived  Sample primljen 3  2025-09-29 16-02-01
+Sample recived  Sample primljen 4  2025-09-29 16-02-01
+Sample recived  Sample primljen 5  2025-09-29 16-02-01
+Sample recived  Sample primljen 6  2025-09-29 16-02-01
+Sample recived  Sample primljen 7  2025-09-29 16-02-01
+Sample recived  Sample primljen 8  2025-09-29 16-02-01
+Sample recived  Sample primljen 9  2025-09-29 16-02-01
+Sample recived  Sample primljen 10  2025-09-29 16-02-01
+Sample recived  Sample primljen 11  2025-09-29 16-02-02
+Sample recived  Sample primljen 12  2025-09-29 16-02-02
+Sample recived  Sample primljen 13  2025-09-29 16-02-02
+Sample recived  Sample primljen 14  2025-09-29 16-02-02
+Sample recived  Sample primljen 15  2025-09-29 16-02-02
+Sample recived  Sample primljen 16  2025-09-29 16-02-02
+Sample recived  Sample primljen 17  2025-09-29 16-02-02
+Sample recived  Sample primljen 18  2025-09-29 16-02-02
+Sample recived  Sample primljen 19  2025-09-29 16-02-02
+Sample recived  Sample primljen 20  2025-09-29 16-02-03
+Sample recived  Sample primljen 21  2025-09-29 16-02-03
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.30383%  2025-09-29 16-02-03
+Sample recived  Sample primljen 22  2025-09-29 16-02-03
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.46464%  2025-09-29 16-02-03
+Sample recived  Sample primljen 23  2025-09-29 16-02-03
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:25.09867%  2025-09-29 16-02-03
+Sample recived  Sample primljen 24  2025-09-29 16-02-03
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.58165%  2025-09-29 16-02-03
+Sample recived  Sample primljen 25  2025-09-29 16-02-03
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.79308%  2025-09-29 16-02-03
+Sample recived  Sample primljen 26  2025-09-29 16-02-03
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.63256%  2025-09-29 16-02-03
+Sample recived  Sample primljen 27  2025-09-29 16-02-03
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.29265%  2025-09-29 16-02-03
+Sample recived  Sample primljen 28  2025-09-29 16-02-03
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.64723%  2025-09-29 16-02-03
+Sample recived  Sample primljen 1  2025-09-29 16-02-05
+Sample recived  Sample primljen 2  2025-09-29 16-02-05
+Sample recived  Sample primljen 3  2025-09-29 16-02-05
+Sample recived  Sample primljen 4  2025-09-29 16-02-05
+Sample recived  Sample primljen 5  2025-09-29 16-02-05
+Sample recived  Sample primljen 6  2025-09-29 16-02-05
+Sample recived  Sample primljen 7  2025-09-29 16-02-05
+Sample recived  Sample primljen 8  2025-09-29 16-02-05
+Sample recived  Sample primljen 9  2025-09-29 16-02-05
+Sample recived  Sample primljen 10  2025-09-29 16-02-06
+Sample recived  Sample primljen 11  2025-09-29 16-02-06
+Sample recived  Sample primljen 12  2025-09-29 16-02-06
+Sample recived  Sample primljen 13  2025-09-29 16-02-06
+Sample recived  Sample primljen 14  2025-09-29 16-02-06
+Sample recived  Sample primljen 15  2025-09-29 16-02-06
+Sample recived  Sample primljen 16  2025-09-29 16-02-06
+Sample recived  Sample primljen 17  2025-09-29 16-02-06
+Sample recived  Sample primljen 18  2025-09-29 16-02-06
+Sample recived  Sample primljen 19  2025-09-29 16-02-07
+Sample recived  Sample primljen 20  2025-09-29 16-02-07
+Sample recived  Sample primljen 21  2025-09-29 16-02-07
+Sample recived  Sample primljen 22  2025-09-29 16-02-07
+Sample recived  Sample primljen 23  2025-09-29 16-02-07
+Sample recived  Sample primljen 24  2025-09-29 16-02-07
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:27.01894%  2025-09-29 16-02-07
+Sample recived  Sample primljen 25  2025-09-29 16-02-07
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:28.25470%  2025-09-29 16-02-07
+Sample recived  Sample primljen 26  2025-09-29 16-02-07
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:30.09523%  2025-09-29 16-02-07
+Sample recived  Sample primljen 27  2025-09-29 16-02-07
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:31.80676%  2025-09-29 16-02-07
+Sample recived  Sample primljen 28  2025-09-29 16-02-08
+[Out Of Band Warning]: [DEVIJACIJA]  Impedansa odstupila od proseka:32.18873%  2025-09-29 16-02-08

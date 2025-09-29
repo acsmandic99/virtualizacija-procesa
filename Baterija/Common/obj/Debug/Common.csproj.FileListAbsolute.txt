@@ -1,0 +1,6 @@
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Common\bin\Debug\Common.dll
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Common\bin\Debug\Common.pdb
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Common\obj\Debug\Common.dll
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Common\obj\Debug\Common.pdb

@@ -1,0 +1,11 @@
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\bin\Debug\Baterija.exe.config
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\bin\Debug\Baterija.exe
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\bin\Debug\Baterija.pdb
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\obj\Debug\Baterija.csproj.AssemblyReference.cache
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\obj\Debug\Baterija.csproj.CoreCompileInputs.cache
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\obj\Debug\Baterija.exe
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\obj\Debug\Baterija.pdb
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\bin\Debug\Common.dll
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\bin\Debug\Common.pdb
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\obj\Debug\Baterija.exe.config
+E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Baterija\obj\Debug\Baterija.csproj.Up2Date
