@@ -17,7 +17,8 @@ namespace BatteryService.Tests
         public void TestDispose_ClosesFileResources()
         {
             string testFile = Path.GetTempFileName();
-            using (var service = new BatteryDataService(testFile))
+            string reject = Path.GetTempFileName();
+            using (var service = new BatteryDataService(testFile,reject))
             {
                 service.SaveSample(new EisSample { RowIndex = 1, FrequencyHz = 1.0 });
 
@@ -37,23 +38,24 @@ namespace BatteryService.Tests
         public void TestDisposedObject_ThrowsException()
         {
             string testFilePath = Path.GetTempFileName();
-            var service = new BatteryDataService(testFilePath);
+            string reject = Path.GetTempFileName();
+            var service = new BatteryDataService(testFilePath,reject);
 
             service.Dispose();
             service.SaveSample(new EisSample { RowIndex = 1, FrequencyHz = 1.0 });
-            File.Delete(testFilePath);
         }
 
         [TestMethod]
         public void TestDispose_Simulation()
         {
             string testFile = Path.GetTempFileName();
+            string reject = Path.GetTempFileName();
             bool exceptionThrown = false;
             BatteryDataService service = null;
 
             try
             {
-                using (service = new BatteryDataService(testFile))
+                using (service = new BatteryDataService(testFile, reject))
                 {
                     service.SaveSample(new EisSample { RowIndex = 1, FrequencyHz = 1.0 });
                     throw new IOException("Prekid veze");

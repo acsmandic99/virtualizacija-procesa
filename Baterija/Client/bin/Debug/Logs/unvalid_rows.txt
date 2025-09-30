@@ -28,3 +28,5 @@ Odbijen sample  1: Validaciona greska: Nevalidni podaci
 Odbijen sample  24: Validaciona greska: Nevalidni podaci
 Odbijen sample  1: Validaciona greska: Nevalidni podaci
 Odbijen sample  24: Validaciona greska: Nevalidni podaci
+Odbijen sample  1: Validaciona greska: Nevalidni podaci
+Odbijen sample  24: Validaciona greska: Nevalidni podaci
