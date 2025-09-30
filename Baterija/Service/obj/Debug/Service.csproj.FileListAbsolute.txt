@@ -9,3 +9,14 @@ E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Service\obj\Debu
 E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Service\obj\Debug\Service.exe
 E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Service\obj\Debug\Service.pdb
 E:\Users\Documents\TRECA_GODINA\Virtualizacija Procesa\Baterija\Service\obj\Debug\Service.exe.config
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\bin\Debug\Service.exe.config
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\bin\Debug\Service.exe
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\bin\Debug\Service.pdb
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\bin\Debug\Common.dll
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\bin\Debug\Common.pdb
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\obj\Debug\Service.exe.config
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\obj\Debug\Service.csproj.Up2Date
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\obj\Debug\Service.exe
+E:\Users\Documents\TRECA_GODINA\virtualizacija-procesa\Baterija\Service\obj\Debug\Service.pdb

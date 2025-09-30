@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.ServiceModel;
 using System.Text;
 using System.Threading;
@@ -49,7 +50,7 @@ namespace Client
                 Console.WriteLine($"Prenos u toku: SoC {meta.SoC}%");
 
 
-                int sentSamples = SendSampleRow(meta,meta.FilePath,proxy);
+                int sentSamples = SendSampleRow(meta, meta.FilePath, proxy);
                 Response endResponse = proxy.EndSession();
                 if (!endResponse.Success)
                 {
@@ -59,13 +60,14 @@ namespace Client
                 Console.WriteLine($"Zavrsen prenos: SoC {meta.SoC}%");
 
             }
-            catch (Exception ex) {
+            catch (Exception ex)
+            {
                 Console.WriteLine($"Greska pri prenosu SoC {meta.SoC}% {ex.Message}");
                 Logger.Log("Logs", "unknown_errors.txt", $"Greska pri prenosu SoC {meta.SoC}% {ex.Message}");
             }
         }
 
-        private int SendSampleRow(EisMeta meta,string filePath,IBatteryService proxy)
+        private int SendSampleRow(EisMeta meta, string filePath, IBatteryService proxy)
         {
             int sentCount = 0;
 
@@ -78,7 +80,7 @@ namespace Client
                     int rowIndex = 1;
                     while ((line = sr.ReadLine()) != null)
                     {
-                        if(string.IsNullOrWhiteSpace(line))
+                        if (string.IsNullOrWhiteSpace(line))
                         {
                             Logger.Log("Logs", "unvalid_rows.txt", $"{meta.BatteryId}/{meta.TestId}/{meta.SoC},{rowIndex}: " +
                                                          $"Red je prazan");
@@ -86,34 +88,51 @@ namespace Client
 
                             continue;
                         }
-                        EisSample sample = ParseCsvLine(meta,line, rowIndex);
+                        EisSample sample = ParseCsvLine(meta, line, rowIndex);
                         if (sample != null)
                         {
                             if (rowIndex <= 28)
                             {
-                                Response response = proxy.PushSample(sample);
-                                if (response.Success)
+                                try
                                 {
-                                    sentCount++;
-                                    Console.WriteLine($"Poslat sample {rowIndex}/28");
-                                    if (response.Message != null)
+                                    Response response = proxy.PushSample(sample);
+                                    if (response.Success)
                                     {
-                                        Console.WriteLine($"{response.Message}");
+                                        sentCount++;
+                                        Console.WriteLine($"Poslat sample {rowIndex}/28");
+                                        if (response.Message != null)
+                                        {
+                                            Console.WriteLine($"{response.Message}");
+                                        }
+                                        foreach (var ev in response.Events)
+                                        {
+                                            Logger.Log("Logs", "event_logs.txt", $"{ev.Type}  {ev.Message}  {ev.Timestamp.ToString("yyyy-MM-dd HH-mm-ss")}");
+                                        }
                                     }
-                                    foreach(var ev in response.Events)
+
+                                    else
                                     {
-                                        Logger.Log("Logs","event_logs.txt",$"{ev.Type}  {ev.Message}  {ev.Timestamp.ToString("yyyy-MM-dd HH-mm-ss")}");
+                                        Console.WriteLine($"Odbijen sample  {rowIndex}: {response.Message}");
+                                        Logger.Log("Logs", "unvalid_rows.txt", $"Odbijen sample  {rowIndex}: {response.Message}");
                                     }
                                 }
-                                else
+                                catch (FaultException<DataFormatFault> ex)
                                 {
-                                    Console.WriteLine($"Odbijen sample  {rowIndex}: {response.Message}");
-                                    Logger.Log("Logs","unvalid_rows.txt",$"Odbijen sample  {rowIndex}: {response.Message}");
+                                    Console.WriteLine($"DataFormat Exception {ex.Detail.Field} {ex.Detail.Message}");
+                                    Logger.Log("Logs", "exceptions.txt", $"DataFormat Exception {ex.Detail.Field} {ex.Detail.Message}");
+
                                 }
+                                catch (FaultException<ValidationFault> ex)
+                                {
+                                    Console.WriteLine($"ValidationFault Exception {ex.Detail.Field} {ex.Detail.Message}");
+                                    Logger.Log("Logs", "exceptions.txt", $"ValidationFault Exception {ex.Detail.Field} {ex.Detail.Message}");
+                                }
+
                                 Thread.Sleep(100);
-                            }else
+                            }
+                            else
                             {
-                                Logger.Log("Logs", "leftover_rows.txt", $"{meta.BatteryId}/{meta.TestId}/{meta.SoC}," + 
+                                Logger.Log("Logs", "leftover_rows.txt", $"{meta.BatteryId}/{meta.TestId}/{meta.SoC}," +
                                                                         $"{sample.RowIndex.ToString(CultureInfo.InvariantCulture)},{sample.FrequencyHz.ToString(CultureInfo.InvariantCulture)}," +
                                                                         $"{sample.R_ohm.ToString(CultureInfo.InvariantCulture)}," +
                                                                         $"{sample.X_ohm.ToString(CultureInfo.InvariantCulture)},{sample.V.ToString(CultureInfo.InvariantCulture)},{sample.T_degC.ToString(CultureInfo.InvariantCulture)}," +
@@ -127,17 +146,17 @@ namespace Client
             catch (Exception ex)
             {
                 Console.WriteLine($"Greska pri slanju sampla: {ex.Message}");
-                Logger.Log("Logs","unknown_errors.txt",$"Greska pri slanju sampla: {ex.Message}");
+                Logger.Log("Logs", "unknown_errors.txt", $"Greska pri slanju sampla: {ex.Message}");
 
             }
             return sentCount;
         }
-        private EisSample ParseCsvLine(EisMeta meta,string line, int rowIndex)
+        private EisSample ParseCsvLine(EisMeta meta, string line, int rowIndex)
         {
             try
             {
                 string[] parts = line.Split(',');
-                if(parts.Length !=6)
+                if (parts.Length != 6)
                 {
                     Logger.Log("Logs", "unvalid_rows.txt", $"{meta.BatteryId}/{meta.TestId}/{meta.SoC},{rowIndex}: " +
                                                         $"Ima previse kolona: {parts.Length}");
@@ -158,7 +177,7 @@ namespace Client
             {
                 Console.WriteLine($"Greska pri parsiranju reda {rowIndex}: {ex.Message}");
                 Console.WriteLine(" dsa" + line);
-                Logger.Log("Logs", "unknown_errors.txt", $"{meta.BatteryId}/{meta.TestId}/{meta.SoC},{rowIndex}: " + 
+                Logger.Log("Logs", "unknown_errors.txt", $"{meta.BatteryId}/{meta.TestId}/{meta.SoC},{rowIndex}: " +
                                                          $"Greska pri parsiranju reda: {ex.Message}");
                 return null;
             }

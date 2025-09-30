@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1E1E87E-23A4-465E-8039-ABEF9AD1E623}|BatteryService.Tests\\BatteryService.Tests.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\batteryservice.tests\\disposepatterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED7B7F6E-1FAA-4EAF-8950-49969012B650}|Client\\Client.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\client\\datatransfermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7B7F6E-1FAA-4EAF-8950-49969012B650}|Client\\Client.csproj|solutionrelative:client\\datatransfermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504DDF8-9487-4162-ACAA-073419FA8E65}|Common\\Common.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\common\\ibatteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504DDF8-9487-4162-ACAA-073419FA8E65}|Common\\Common.csproj|solutionrelative:common\\ibatteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41021E16-F294-4D0E-B791-AC595544B483}|Service\\Service.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\service\\batteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41021E16-F294-4D0E-B791-AC595544B483}|Service\\Service.csproj|solutionrelative:service\\batteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1E87E-23A4-465E-8039-ABEF9AD1E623}|BatteryService.Tests\\BatteryService.Tests.csproj|e:\\users\\documents\\treca_godina\\virtualizacija-procesa\\baterija\\batteryservice.tests\\disposepatterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1E1E87E-23A4-465E-8039-ABEF9AD1E623}|BatteryService.Tests\\BatteryService.Tests.csproj|solutionrelative:batteryservice.tests\\disposepatterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41021E16-F294-4D0E-B791-AC595544B483}|Service\\Service.csproj|e:\\users\\documents\\treca_godina\\virtualizacija-procesa\\baterija\\service\\batterydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41021E16-F294-4D0E-B791-AC595544B483}|Service\\Service.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\service\\batterydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41021E16-F294-4D0E-B791-AC595544B483}|Service\\Service.csproj|solutionrelative:service\\batterydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3504DDF8-9487-4162-ACAA-073419FA8E65}|Common\\Common.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3504DDF8-9487-4162-ACAA-073419FA8E65}|Common\\Common.csproj|solutionrelative:common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7B7F6E-1FAA-4EAF-8950-49969012B650}|Client\\Client.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\client\\datatransfermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7B7F6E-1FAA-4EAF-8950-49969012B650}|Client\\Client.csproj|solutionrelative:client\\datatransfermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41021E16-F294-4D0E-B791-AC595544B483}|Service\\Service.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\service\\batteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41021E16-F294-4D0E-B791-AC595544B483}|Service\\Service.csproj|solutionrelative:service\\batteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41021E16-F294-4D0E-B791-AC595544B483}|Service\\Service.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\service\\batteryeventsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,10 +70,6 @@
       "RelativeMoniker": "D:0:0:{ED7B7F6E-1FAA-4EAF-8950-49969012B650}|Client\\Client.csproj|solutionrelative:client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3504DDF8-9487-4162-ACAA-073419FA8E65}|Common\\Common.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\common\\ibatteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504DDF8-9487-4162-ACAA-073419FA8E65}|Common\\Common.csproj|solutionrelative:common\\ibatteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3504DDF8-9487-4162-ACAA-073419FA8E65}|Common\\Common.csproj|E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\common\\eismeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3504DDF8-9487-4162-ACAA-073419FA8E65}|Common\\Common.csproj|solutionrelative:common\\eismeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -89,11 +89,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Logger.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Client\\Logger.cs",
               "RelativeDocumentMoniker": "Client\\Logger.cs",
@@ -105,19 +105,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "BatteryService.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Service\\BatteryService.cs",
               "RelativeDocumentMoniker": "Service\\BatteryService.cs",
               "ToolTip": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Service\\BatteryService.cs",
               "RelativeToolTip": "Service\\BatteryService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAWwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAwwBIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:00:29.857Z"
+              "WhenOpened": "2025-09-26T22:00:29.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Service\\Program.cs",
               "RelativeDocumentMoniker": "Service\\Program.cs",
@@ -129,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BatteryEventPublisher.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Service\\BatteryEventPublisher.cs",
               "RelativeDocumentMoniker": "Service\\BatteryEventPublisher.cs",
@@ -141,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BatteryEventArgs.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Common\\BatteryEventArgs.cs",
               "RelativeDocumentMoniker": "Common\\BatteryEventArgs.cs",
@@ -153,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BatteryDataService.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Service\\BatteryDataService.cs",
               "RelativeDocumentMoniker": "Service\\BatteryDataService.cs",
@@ -161,12 +162,11 @@
               "RelativeToolTip": "Service\\BatteryDataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T12:13:28.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T12:13:28.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EisSample.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Common\\EisSample.cs",
               "RelativeDocumentMoniker": "Common\\EisSample.cs",
@@ -178,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Response.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Common\\Response.cs",
               "RelativeDocumentMoniker": "Common\\Response.cs",
@@ -190,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "App.config",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Service\\App.config",
               "RelativeDocumentMoniker": "Service\\App.config",
@@ -202,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "BatteryService.Tests",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\BatteryService.Tests\\BatteryService.Tests.csproj",
               "RelativeDocumentMoniker": "BatteryService.Tests\\BatteryService.Tests.csproj",
@@ -213,19 +213,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "DataTransferManager.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Client\\DataTransferManager.cs",
               "RelativeDocumentMoniker": "Client\\DataTransferManager.cs",
               "ToolTip": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Client\\DataTransferManager.cs",
               "RelativeToolTip": "Client\\DataTransferManager.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAYwIYAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwLsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T19:12:31.203Z"
+              "WhenOpened": "2025-09-27T19:12:31.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BatteryEventSubscriber.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Service\\BatteryEventSubscriber.cs",
               "RelativeDocumentMoniker": "Service\\BatteryEventSubscriber.cs",
@@ -237,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "App.config",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Client\\App.config",
               "RelativeDocumentMoniker": "Client\\App.config",
@@ -249,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
@@ -261,19 +262,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "IBatteryService.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Common\\IBatteryService.cs",
               "RelativeDocumentMoniker": "Common\\IBatteryService.cs",
               "ToolTip": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Common\\IBatteryService.cs",
               "RelativeToolTip": "Common\\IBatteryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:09:57.624Z"
+              "WhenOpened": "2025-09-26T21:09:57.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BatteryDataScanner.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\Client\\BatteryDataScanner.cs",
               "RelativeDocumentMoniker": "Client\\BatteryDataScanner.cs",
@@ -297,13 +299,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DisposePatternTests.cs",
               "DocumentMoniker": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\BatteryService.Tests\\DisposePatternTests.cs",
               "RelativeDocumentMoniker": "BatteryService.Tests\\DisposePatternTests.cs",
               "ToolTip": "E:\\Users\\Documents\\TRECA_GODINA\\virtualizacija-procesa\\Baterija\\BatteryService.Tests\\DisposePatternTests.cs",
               "RelativeToolTip": "BatteryService.Tests\\DisposePatternTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T12:49:05.078Z",
               "EditorCaption": ""

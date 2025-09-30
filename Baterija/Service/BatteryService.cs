@@ -58,7 +58,7 @@ namespace Service
             _eventPublisher.RaiseTransferCompleted(currentMeta.BatteryId, currentMeta.TestId, currentMeta.SoC, recivedSamples, recivedSamples - rejectedSamples, rejectedSamples);
             List<EventInfo> events = new List<EventInfo>();
             events.Add(new EventInfo { Type = "Transfer zavrsen", Message = $"Transfer zavrsen: {currentMeta.BatteryId}/{currentMeta.TestId}/SoC{currentMeta.SoC}%\nUkupno merenja: {recivedSamples} od toga {recivedSamples - rejectedSamples} je validno a {rejectedSamples} je odbijeno" });
-            return new Response { Success = true, Status = "ACK", Message = "Session Ended",Events = events };
+            return new Response { Success = true, Status = "ACK", Message = "Session Ended", Events = events };
         }
 
 
@@ -66,7 +66,7 @@ namespace Service
         {
             recivedSamples++;
             List<Common.EventInfo> events = new List<EventInfo>();
-            events.Add(new EventInfo { Type = "Sample recived",Message=$"Sample primljen {recivedSamples}",Timestamp=DateTime.Now});
+            events.Add(new EventInfo { Type = "Sample recived", Message = $"Sample primljen {recivedSamples}", Timestamp = DateTime.Now });
             using (BatteryDataService dataService = new BatteryDataService(currentSessionFile, rejectPath))
             {
                 try
@@ -79,19 +79,19 @@ namespace Service
                     _currentImpedanceSum += impedance;
                     _currentSampleCount++;
                     string message = "";
-                    
-                    if(recivedSamples >1)
+
+                    if (recivedSamples > 1)
                     {
-                        message  = CheckForVoltageSpike(_previusVoltage, sample.V,events);
-                        message += CheckForImpedanceJump(_previusImpedance, impedance,events);
+                        message = CheckForVoltageSpike(_previusVoltage, sample.V, events);
+                        message += CheckForImpedanceJump(_previusImpedance, impedance, events);
                     }
                     _previusVoltage = sample.V;
                     _previusImpedance = impedance;
-                    message += CheckThresholds(currentMeta.BatteryId, currentMeta.TestId, currentMeta.SoC, sample, impedance,events);
+                    message += CheckThresholds(currentMeta.BatteryId, currentMeta.TestId, currentMeta.SoC, sample, impedance, events);
 
                     _eventPublisher.RaiseSampleReceived(currentMeta.BatteryId, currentMeta.TestId, currentMeta.SoC, sample, recivedSamples);
 
-                    return new Response { Success = true, Status = "ACK" ,Message = message,Events = events};
+                    return new Response { Success = true, Status = "ACK", Message = message, Events = events };
                 }
                 catch (FaultException<ValidationFault> ex)
                 {
@@ -100,7 +100,7 @@ namespace Service
                     _previusImpedance = impedance;
                     rejectedSamples++;
                     dataService.SaveRejectedSample(currentMeta, sample, ex.Detail.Message);
-                    return new Response { Message = $"Validaciona greska: {ex.Message}", Status = "NACK", Success = false };
+                    throw ex;
                 }
                 catch (FaultException<DataFormatFault> ex)
                 {
@@ -108,8 +108,8 @@ namespace Service
                     _previusVoltage = sample.V;
                     _previusImpedance = impedance;
                     rejectedSamples++;
-                    dataService.SaveRejectedSample(currentMeta,sample, ex.Detail.Message);
-                    return new Response { Message = $"Validaciona greska: {ex.Message}", Status = "NACK", Success = false };
+                    dataService.SaveRejectedSample(currentMeta, sample, ex.Detail.Message);
+                    throw ex;
                 }
                 catch (Exception ex)
                 {
@@ -118,16 +118,16 @@ namespace Service
                     _previusImpedance = impedance;
                     rejectedSamples++;
                     dataService.SaveRejectedSample(currentMeta, sample, ex.Message);
-                    return new Response { Message = $"Interna greska: {ex.Message}", Status = "NACK", Success = false };
+                    throw ex;
                 }
 
             }
         }
 
-        private string CheckForImpedanceJump(double previusImpedance, double NewImpedance,List<EventInfo> events)
+        private string CheckForImpedanceJump(double previusImpedance, double NewImpedance, List<EventInfo> events)
         {
             double deltaImpedance = NewImpedance - previusImpedance;
-            if(Math.Abs(deltaImpedance) > Delta_zThreshold)
+            if (Math.Abs(deltaImpedance) > Delta_zThreshold)
             {
                 string smer;
                 if (deltaImpedance < 0)
@@ -143,17 +143,17 @@ namespace Service
             return "";
         }
 
-        private string CheckForVoltageSpike(double previusVoltage, double newVoltage,List<EventInfo> events)
+        private string CheckForVoltageSpike(double previusVoltage, double newVoltage, List<EventInfo> events)
         {
             double deltaV = newVoltage - previusVoltage;
-            if(Math.Abs(deltaV) > DeltaV_threshold)
+            if (Math.Abs(deltaV) > DeltaV_threshold)
             {
                 string smer;
                 if (deltaV < 0)
                     smer = "ISPOD OCEKIVANOG";
                 else
                     smer = "IZNAD OCEKIVANOG";
-                _eventPublisher.RaiseVoltageSpike(currentMeta.BatteryId,currentMeta.TestId,currentMeta.SoC,newVoltage,previusVoltage,smer);
+                _eventPublisher.RaiseVoltageSpike(currentMeta.BatteryId, currentMeta.TestId, currentMeta.SoC, newVoltage, previusVoltage, smer);
                 events.Add(new EventInfo { Type = "[SPIKE VOLTAGE]", Message = "[PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}", Timestamp = DateTime.Now });
                 return $"[SPIKE VOLTAGE] [PROSLA VREDNOST NAPONA]: {previusVoltage} [NOVA VREDNOST NAPONA]: {newVoltage} | {smer}\n";
             }
@@ -164,34 +164,34 @@ namespace Service
         {
 
             if (double.IsInfinity(sample.V) || double.IsNaN(sample.V))
-                throw new FaultException<DataFormatFault>(new DataFormatFault { Message = "Napon mora biti realan broj", Field = "V" }, "Nevalidni podaci");
+                throw new FaultException<DataFormatFault>(new DataFormatFault { Message = "Napon mora biti realan broj", Field = "V" });
 
             if (double.IsNaN(sample.X_ohm) || double.IsInfinity(sample.X_ohm))
-                throw new FaultException<DataFormatFault>(new DataFormatFault { Message = "X ohm mora biti realan broj", Field = "V" }, "Nevalidni podaci");
+                throw new FaultException<DataFormatFault>(new DataFormatFault { Message = "X ohm mora biti realan broj", Field = "V" });
 
             if (double.IsNaN(sample.Range_ohm) || double.IsInfinity(sample.R_ohm))
-                throw new FaultException<DataFormatFault>(new DataFormatFault { Message = "Vrednost Range ohm nije validna", Field = "Range_ohm" }, "Nevalidni podaci");
+                throw new FaultException<DataFormatFault>(new DataFormatFault { Message = "Vrednost Range ohm nije validna", Field = "Range_ohm" });
 
             if (double.IsNaN(sample.T_degC) || double.IsInfinity(sample.T_degC))
                 throw new FaultException<DataFormatFault>(
-                    new DataFormatFault { Message = "Temperatura mora biti validan broj", Field = "T_degC" }, "Format greške");
+                    new DataFormatFault { Message = "Temperatura mora biti validan broj", Field = "T_degC" });
 
             if (sample.FrequencyHz <= 0)
-                throw new FaultException<ValidationFault>(new ValidationFault { Message = "Frekvencija mora biti veca od 0", Field = "FrequencyHz" }, "Nevalidni podaci");
+                throw new FaultException<ValidationFault>(new ValidationFault { Message = "Frekvencija mora biti veca od 0", Field = "FrequencyHz" });
 
             if (sample.Range_ohm <= 0)
-                throw new FaultException<ValidationFault>(new ValidationFault { Message = "Otpornost mora biti pozitivan broj", Field = "V" }, "Nevalidni podaci");
+                throw new FaultException<ValidationFault>(new ValidationFault { Message = "Otpornost mora biti pozitivan broj", Field = "V" });
 
             if (sample.V < 0)
-                throw new FaultException<ValidationFault>(new ValidationFault { Message = "Napon ne moze biti negativan", Field = "V" }, "Nevalidni podaci");
+                throw new FaultException<ValidationFault>(new ValidationFault { Message = "Napon ne moze biti negativan", Field = "V" });
 
             if (sample.RowIndex <= _lastRowIndex)
-                throw new FaultException<ValidationFault>(new ValidationFault { Message = "RowIndex mora biti monotono rastuci", Field = "RowIndex" }, "Nevalidni podaci");
+                throw new FaultException<ValidationFault>(new ValidationFault { Message = "RowIndex mora biti monotono rastuci", Field = "RowIndex" });
             _lastRowIndex = sample.RowIndex;
 
             if (sample.T_degC < -20 || sample.T_degC > 60)
                 throw new FaultException<ValidationFault>(
-                    new ValidationFault { Message = $"Temperatura {sample.T_degC}C van dozvoljenog opsega", Field = "T_degC" }, "Nevalidni podaci");
+                    new ValidationFault { Message = $"Temperatura {sample.T_degC}C van dozvoljenog opsega", Field = "T_degC" });
         }
         public Response StartSession(EisMeta header)
         {
@@ -230,10 +230,10 @@ namespace Service
             _eventPublisher.RaiseTransferStarted(currentMeta.BatteryId, currentMeta.TestId, currentMeta.SoC, sessionFile);
             List<EventInfo> events = new List<EventInfo>();
             events.Add(new EventInfo { Type = "Transfer started", Message = $"TRANSFER POCEO: {currentMeta.BatteryId}/{currentMeta.TestId}/SoC{currentMeta.SoC}%" });
-            return new Response { Success = true, Status = "ACK", Message = "Session Started",Events = events };
+            return new Response { Success = true, Status = "ACK", Message = "Session Started", Events = events };
         }
 
-        private string CheckThresholds(string batteryId, string testId, int soc, EisSample sample, double impedance,List<EventInfo> events)
+        private string CheckThresholds(string batteryId, string testId, int soc, EisSample sample, double impedance, List<EventInfo> events)
         {
             string message = "";
             if (Math.Abs(impedance) > _zThreshold)

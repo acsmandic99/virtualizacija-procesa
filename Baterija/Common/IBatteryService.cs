@@ -13,8 +13,12 @@ namespace Common
     {
         [OperationContract(IsInitiating = true, IsTerminating = false)]
         Response StartSession(EisMeta header);
+
         [OperationContract(IsInitiating = false, IsTerminating = false)]
+        [FaultContract(typeof(ValidationFault))]
+        [FaultContract(typeof(DataFormatFault))]
         Response PushSample(EisSample sample);
+
         [OperationContract(IsInitiating = false, IsTerminating = true)]
         Response EndSession();
     }
