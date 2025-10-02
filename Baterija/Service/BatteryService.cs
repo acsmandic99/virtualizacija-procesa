@@ -28,6 +28,7 @@ namespace Service
         private int recivedSamples;
         private int rejectedSamples;
         private BatteryEventPublisher _eventPublisher => Program.EventPublisher;
+        private BatteryDataService dataService;
 
 
         private readonly double _vThreshold;
@@ -53,6 +54,7 @@ namespace Service
 
         public Response EndSession()
         {
+            dataService.Dispose();
             currentSessionFile = null;
             _lastRowIndex = -1;
             _eventPublisher.RaiseTransferCompleted(currentMeta.BatteryId, currentMeta.TestId, currentMeta.SoC, recivedSamples, recivedSamples - rejectedSamples, rejectedSamples);
@@ -67,8 +69,6 @@ namespace Service
             recivedSamples++;
             List<Common.EventInfo> events = new List<EventInfo>();
             events.Add(new EventInfo { Type = "Sample recived", Message = $"Sample primljen {recivedSamples}", Timestamp = DateTime.Now });
-            using (BatteryDataService dataService = new BatteryDataService(currentSessionFile, rejectPath))
-            {
                 try
                 {
                     ValidateSample(sample);
@@ -121,7 +121,6 @@ namespace Service
                     throw ex;
                 }
 
-            }
         }
 
         private string CheckForImpedanceJump(double previusImpedance, double NewImpedance, List<EventInfo> events)
@@ -230,6 +229,7 @@ namespace Service
             _eventPublisher.RaiseTransferStarted(currentMeta.BatteryId, currentMeta.TestId, currentMeta.SoC, sessionFile);
             List<EventInfo> events = new List<EventInfo>();
             events.Add(new EventInfo { Type = "Transfer started", Message = $"TRANSFER POCEO: {currentMeta.BatteryId}/{currentMeta.TestId}/SoC{currentMeta.SoC}%" });
+            dataService = new BatteryDataService(currentSessionFile, rejectPath);
             return new Response { Success = true, Status = "ACK", Message = "Session Started", Events = events };
         }
 

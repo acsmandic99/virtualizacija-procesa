@@ -51,6 +51,7 @@ namespace Service
         {
             if (!disposed)
             {
+
                 if (disposing)
                 {
                     writer?.Dispose();
